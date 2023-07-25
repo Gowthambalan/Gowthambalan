@@ -1,12 +1,12 @@
 # 💫 About Me:
 👨‍💻 I'm a AI|ML Researcher .<br><br>👋 Hi, I’m Working @Avondae Technologies<br><br>👀 I’m interested in ... Artificial intelligence anda data science<br><br>🌱 I’m currently learning ...<br><br>📫 How to reach me ...Linkedin
 
-# 📊 GitHub Stats:
+# 📊 GitHub Status:
 ![](https://github-readme-stats.vercel.app/api?username=gowthambalan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gowthambalan&theme=dark&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gowtham&theme=radical&no-frame=true&no-bg=true&margin-w=40)
+![](https://github-profile-trophy.vercel.app/?username=gowthambalan&theme=radical&no-frame=true&no-bg=true&margin-w=40)
 
 # 💻 Tech Stack:<h1 align="left">What I Work, or am familiar with:</h1>
 <h2 align="left">The languages I use:</h2>
