@@ -3,7 +3,7 @@
 📚 Currently exploring advanced MLOps, generative AI, and production-grade FastAPI systems.  
 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/gowtham-muruganantharaj-7532b820b).
 
-
+[![](https://visitcount.itsvg.in/api?id=gowtham&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 📊 GitHub Status:
 ![](https://github-readme-stats.vercel.app/api?username=gowthambalan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -91,4 +91,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=gowtham&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
