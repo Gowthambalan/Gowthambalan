@@ -1,7 +1,7 @@
 👋 Hi, I'm Gowtham — an AI/ML Engineer at GBS Plus Pvt Ltd.  
 🔍 Passionate about Artificial Intelligence, Machine Learning, and Data Science.  
 📚 Currently exploring advanced MLOps, generative AI, and production-grade FastAPI systems.  
-📫 Let's connect on [LinkedIn](linkedin.com/in/gowtham-muruganantharaj-7532b820b).
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/gowtham-muruganantharaj-7532b820b).
 
 
 
