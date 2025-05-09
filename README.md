@@ -6,9 +6,10 @@
 
 # 📊 GitHub Status:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gowthambalan&show_icons=true&hide_title=true&count_private=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/api/?user=gowthambalan&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gowthambalan&theme=react-dark)
+
+![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=gowthambalan&theme=github&bg_color=000000)
+
 
 
 
