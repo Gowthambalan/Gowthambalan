@@ -10,7 +10,7 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gowthambalan&theme=react-dark)
 
-![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=gowthambalan&theme=github&bg_color=000000)
+![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=gowthambalan&theme=github&bg_color=45665)
 
 
 
