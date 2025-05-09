@@ -85,8 +85,7 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
-### 📈 GitHub Activity Graph
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=gowthambalan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=gowthambalan&theme=dracula&custom_title=My%20GitHub%20Activity&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ---
