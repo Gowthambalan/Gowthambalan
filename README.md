@@ -18,7 +18,7 @@
 
 
 ### Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gowthambalan&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gowthambalan&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ### GitHub Contribution Calendar
 ![GitHub Contribution Calendar](https://github-readme-contrib.vercel.app/api?username=gowthambalan)
