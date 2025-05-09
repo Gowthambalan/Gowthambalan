@@ -6,7 +6,8 @@
 
 # 📊 GitHub Status:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gowthambalan&show_icons=true&hide_title=true&count_private=true&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=gowthambalan&theme=dark&hide_border=false)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gowthambalan&theme=dark&hide_border=true)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gowthambalan&theme=radical&no-frame=true&no-bg=true&margin-w=40)
