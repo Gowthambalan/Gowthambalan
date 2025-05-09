@@ -8,9 +8,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gowthambalan&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 
-![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=gowthambalan&theme=github&bg_color=000000)
-
-
 
 
 
@@ -18,6 +15,31 @@
 ![](https://github-profile-trophy.vercel.app/?username=gowthambalan&theme=radical&no-frame=true&no-bg=true&margin-w=40)
 
 # 💻 Tech Stack:<h1 align="left">What I Work, or am familiar with:</h1>
+
+
+### Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gowthambalan&theme=dark&hide_border=true)
+
+### GitHub Contribution Calendar
+![GitHub Contribution Calendar](https://github-readme-contrib.vercel.app/api?username=gowthambalan)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h2 align="left">The languages I use:</h2>
 
 
