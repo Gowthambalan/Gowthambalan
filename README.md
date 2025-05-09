@@ -17,17 +17,6 @@
 
 <h2 align="left">What I Work, or am familiar with:</h2>
 
-<h3 align="left">Data Science, Analytics, and Visualization:</h3>
-
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Google Analytics](https://img.shields.io/badge/google_analytics-%23FF9900.svg?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Jupyter](https://img.shields.io/badge/jupyter-%23FF6F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Numba](https://img.shields.io/badge/Numba-%232081E2.svg?style=for-the-badge&logo=numba&logoColor=white)
-
-<h3 align="left">Machine Learning/Deep Learning:</h3>
-
-
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 <h3 align="left">Machine Learning & Artificial Intelligence:</h3>
 
@@ -39,19 +28,33 @@
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 ![XGBoost](https://img.shields.io/badge/XGBoost-%230C55A5.svg?style=for-the-badge&logo=xgboost&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-%23137A43.svg?style=for-the-badge&logo=lightgbm&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-%23010243.svg?style=for-the-badge&logo=mlflow&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-%230077B5.svg?style=for-the-badge&logo=onnx&logoColor=white)
 
 
 <h3 align="left">Backend Dev:</h3>
 
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Rest](https://img.shields.io/badge/rest-%23FF0000.svg?style=for-the-badge&logo=rest&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+<h3 align="left">MLOps & Deployment Tools:</h3>
+
+
+![MLflow](https://img.shields.io/badge/MLflow-%23010243.svg?style=for-the-badge&logo=mlflow&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-%2300bfff.svg?style=for-the-badge&logo=gradio&logoColor=white)
+![Amazon SageMaker](https://img.shields.io/badge/Amazon_SageMaker-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP Vertex AI](https://img.shields.io/badge/Vertex_AI-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+
+<h3 align="left">Data Science, Analytics, and Visualization:</h3>
+
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Google Analytics](https://img.shields.io/badge/google_analytics-%23FF9900.svg?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Jupyter](https://img.shields.io/badge/jupyter-%23FF6F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Numba](https://img.shields.io/badge/Numba-%232081E2.svg?style=for-the-badge&logo=numba&logoColor=white)
+
 
 
 <h3 align="left">Database:</h3>
