@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I'm a AI|ML Researcher .<br><br>👋 Hi, I’m Working @Avondae Technologies<br><br>👀 I’m interested in ... Artificial intelligence anda data science<br><br>🌱 I’m currently learning ...<br><br>📫 How to reach me ...Linkedin
+👨‍💻 I'm a AI|ML Researcher .<br><br>👋 Hi, I’m Working @GBS Plus Pvt Ltd<br><br>👀 I’m interested in ... Artificial intelligence anda data science<br><br>🌱 I’m currently learning ...<br><br>📫 How to reach me ...Linkedin
 
 # 📊 GitHub Status:
 ![](https://github-readme-stats.vercel.app/api?username=gowthambalan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
