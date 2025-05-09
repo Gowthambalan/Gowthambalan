@@ -1,5 +1,8 @@
-# 💫 About Me:
-👨‍💻 I'm a AI|ML Engineer .<br><br>👋 Hi, I’m Working @GBS Plus Pvt Ltd<br><br>👀 I’m interested in ... Artificial intelligence anda data science<br><br>🌱 I’m currently learning ...<br><br>📫 How to reach me ...Linkedin
+👋 Hi, I'm Gowtham — an AI/ML Engineer at GBS Plus Pvt Ltd.  
+🔍 Passionate about Artificial Intelligence, Machine Learning, and Data Science.  
+📚 Currently exploring advanced MLOps, generative AI, and production-grade FastAPI systems.  
+📫 Let's connect on [LinkedIn]([https://www.linkedin.com/in/YOUR-USERNAME](https://www.linkedin.com/in/gowtham-muruganantharaj-7532b820b).
+
 
 # 📊 GitHub Status:
 ![](https://github-readme-stats.vercel.app/api?username=gowthambalan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
