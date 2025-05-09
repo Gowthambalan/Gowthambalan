@@ -17,11 +17,10 @@
 # 💻 Tech Stack:<h1 align="left">What I Work, or am familiar with:</h1>
 
 
-### Streak Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gowthambalan&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
-### GitHub Contribution Calendar
+
 ![GitHub Contribution Calendar](https://github-readme-contrib.vercel.app/api?username=gowthambalan)
+
 
 
 
