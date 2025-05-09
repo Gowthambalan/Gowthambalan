@@ -18,6 +18,7 @@
 <h2 align="left">What I Work, or am familiar with:</h2>
 
 
+
 <h3 align="left">Machine Learning & Artificial Intelligence:</h3>
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -31,6 +32,7 @@
 ![ONNX](https://img.shields.io/badge/ONNX-%230077B5.svg?style=for-the-badge&logo=onnx&logoColor=white)
 
 
+
 <h3 align="left">Backend Dev:</h3>
 
 
@@ -38,6 +40,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+
 
 <h3 align="left">MLOps & Deployment Tools:</h3>
 
@@ -79,10 +83,6 @@
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-<h3 align="left">Frontend Dev:</h3>
-
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Materialize-CSS](https://img.shields.io/badge/materialize-css-hotpink.svg?style=for-the-badge&logo=materialize-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
 ---
