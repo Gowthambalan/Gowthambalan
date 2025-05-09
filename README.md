@@ -84,7 +84,7 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gowthambalan&theme=github&bg_color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+////[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gowthambalan&theme=github&bg_color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
