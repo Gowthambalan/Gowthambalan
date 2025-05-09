@@ -6,6 +6,8 @@
 
 # 📊 GitHub Status:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gowthambalan&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gowthambalan&theme=solarized-light&hide_border=true)
+
 
 
 
@@ -83,10 +85,6 @@
 <h3 align="left">CI/CD:</h3>
 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gowthambalan&theme=dark&hide_border=true)
 
 
 
