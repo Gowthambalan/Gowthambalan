@@ -1,10 +1,11 @@
-👋 Hi, I'm Gowtham Muruganantharaj
-AI/ML Engineer at GBS Plus Pvt Ltd | Building Intelligent Systems at Scale
+# 👋 Hi, I'm Gowtham Muruganantharaj  
+**AI/ML Engineer** at GBS Plus Pvt Ltd | Building Intelligent Systems at Scale  
 
-🔹 Passionate about transforming data into actionable insights using AI/ML
-🔹 Specializing in MLOps, Generative AI, and Scalable API Development
-🔹 Currently exploring LLMs, Vector Databases, and Cloud-Native AI Solutions  
-📫 **Let's collaborate!** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowtham-muruganantharaj-7532b820b) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gowthamfutureai@gmail.com)
+🔹 **Passionate** about transforming data into actionable insights using AI/ML  
+🔹 **Specializing** in MLOps, Generative AI, and Scalable API Development  
+🔹 **Currently exploring** LLMs, Vector Databases, and Cloud-Native AI Solutions  
+
+📫 **Let's collaborate!** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowtham-muruganantharaj-7532b820b) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 
 # 📊 GitHub Status:
