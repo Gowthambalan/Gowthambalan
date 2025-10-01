@@ -101,11 +101,12 @@
 ### Vector Database:
 
 ![Qdrant](https://img.shields.io/badge/Qdrant-Vector_DB-3B82F6?style=for-the-badge&logo=qdrant&logoColor=white)
-![Chroma](https://img.shields.io/badge/Chroma-Vector_DB-10B981?style=for-the-badge)
-![Weaviate](https://img.shields.io/badge/Weaviate-Vector_DB-7C3AED?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-Vector_DB-FF6B6B?style=for-the-badge)
-![Milvus](https://img.shields.io/badge/Milvus-Vector_DB-00D1B2?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-667EEA?style=for-the-badge)
+![Chroma](https://img.shields.io/badge/Chroma-Vector_DB-10B981?style=for-the-badge&logo=chroma&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-Vector_DB-7C3AED?style=for-the-badge&logo=weaviate&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-Vector_DB-FF6B6B?style=for-the-badge&logo=pinecone&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-Vector_DB-00D1B2?style=for-the-badge&logo=milvus&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_DB-667EEA?style=for-the-badge&logo=faiss&logoColor=white)
+
 
 <h2 align="left">Cloud:</h2>
 
