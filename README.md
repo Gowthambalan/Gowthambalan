@@ -52,6 +52,26 @@
 ![Natural Language Processing](https://img.shields.io/badge/NLP-Language_AI-F7DC6F?style=for-the-badge)
 
 
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23FFFFFF.svg?style=for-the-badge&logo=opencv&logoColor=black)
+![ONNX](https://img.shields.io/badge/ONNX-%230077B5.svg?style=for-the-badge&logo=onnx&logoColor=white)
+
+![Natural Language Processing](https://img.shields.io/badge/NLP-Language_AI-F7DC6F?style=for-the-badge)
+![Large Language Models](https://img.shields.io/badge/LLM-Large_Language_Models-FF6B6B?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-Creative_Models-96CEB4?style=for-the-badge)
+![RAG Systems](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-4ECDC4?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-Autonomous_Systems-45B7D1?style=for-the-badge)
+
+![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![XGBoost](https://img.shields.io/badge/XGBoost-%230C55A5.svg?style=for-the-badge&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-%23137A43.svg?style=for-the-badge&logo=lightgbm&logoColor=white)
+
+
 
 <h3 align="left">Backend Dev:</h3>
 
