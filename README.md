@@ -333,10 +333,6 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=gowtham&icon=0&color=0)](https://visitcount.itsvg.in)
-
-![Profile Views](https://hits.sh/github.com/gowthambalan.png)
-
 ![Profile Views](https://img.shields.io/badge/Profile_Views-0-blue)
 
 
