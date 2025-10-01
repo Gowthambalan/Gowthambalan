@@ -107,6 +107,12 @@
 ![Milvus](https://img.shields.io/badge/Milvus-Vector_DB-00D1B2?style=for-the-badge&logo=milvus&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-Vector_DB-667EEA?style=for-the-badge&logo=faiss&logoColor=white)
 
+### Traditional Database:
+
+<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 
 
 <h2 align="left">Cloud:</h2>
