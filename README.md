@@ -18,7 +18,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gowthambalan&theme=radical&no-frame=true&no-bg=true&margin-w=40)
 
-## 💻 Tech Stack:<h1 align="left">###Technologies I Work With / Am Familiar With:</h1>
+## 💻 Tech Stack:
+### Technologies I Work With / Am Familiar With:
 
 
 <h2 align="left">The languages I use:</h2>
