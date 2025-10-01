@@ -8,7 +8,7 @@
 📫 **Let's collaborate!** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowtham-muruganantharaj-7532b820b) | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gowthamfutureai@gmail.com)
 
 
-# 📊 Streak stats:
+## 📊 Streak stats:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=gowthambalan&theme=radical)
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gowthambalan&show_icons=true&hide_title=true&count_private=true&theme=radical) -->
