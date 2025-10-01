@@ -108,33 +108,6 @@
 ![FAISS](https://img.shields.io/badge/FAISS-Vector_DB-667EEA?style=for-the-badge&logo=faiss&logoColor=white)
 
 
-<h3 align="left">Vector Databases:</h3>
-<p align="left"> 
-  <a href="https://qdrant.tech/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/qdrant/qdrant/master/logo/qdrant_logo_light.svg" alt="qdrant" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://avatars.githubusercontent.com/u/108884711?s=200&v=4" alt="chroma" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://weaviate.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://weaviate.io/img/weaviate-logo.svg" alt="weaviate" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://pinecone.io/images/favicon/favicon-32x32.png" alt="pinecone" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://milvus.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://milvus.io/assets/img/logo/milvus-logo.svg" alt="milvus" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://github.com/facebookresearch/faiss" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/docs/faiss_logo.png" alt="faiss" width="40" height="40"/> 
-  </a> 
-</p>
-
 
 <h2 align="left">Cloud:</h2>
 
