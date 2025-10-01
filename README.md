@@ -71,6 +71,13 @@
 ![Hoppscotch](https://img.shields.io/badge/Hoppscotch-34495E?style=for-the-badge&logo=hoppscotch&logoColor=white)
 
 
+### Containerization / DevOps Tools:
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+
+
 <h3 align="left">MLOps & Deployment Tools:</h3>
 
 
