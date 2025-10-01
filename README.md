@@ -45,6 +45,13 @@
 ![LightGBM](https://img.shields.io/badge/LightGBM-%23137A43.svg?style=for-the-badge&logo=lightgbm&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-%230077B5.svg?style=for-the-badge&logo=onnx&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-%230072B5.svg?style=for-the-badge&logo=ollama&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white&style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-Models-AI-blue?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval-Augmented-Generation-AI-green?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic-AI-brightgreen?style=for-the-badge)
+![Gen AI](https://img.shields.io/badge/Generative-AI-GenAI-purple?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-Natural-Language-Processing-lightblue?style=for-the-badge)
+
 
 
 <h3 align="left">Backend Dev:</h3>
