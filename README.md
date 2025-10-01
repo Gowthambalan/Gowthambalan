@@ -80,7 +80,7 @@
 
 
 
-<h3 align="left">MLOps & Deployment Tools:</h3>
+### MLOps & Deployment Tools:
 
 
 ![MLflow](https://img.shields.io/badge/MLflow-%23010243.svg?style=for-the-badge&logo=mlflow&logoColor=white)
@@ -98,7 +98,7 @@
 
 
 
-### Vector Database / Database:
+### Databases:
 
 ### Vector Database:
 
