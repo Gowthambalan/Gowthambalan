@@ -44,13 +44,12 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-%230C55A5.svg?style=for-the-badge&logo=xgboost&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-%23137A43.svg?style=for-the-badge&logo=lightgbm&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-%230077B5.svg?style=for-the-badge&logo=onnx&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-%230072B5.svg?style=for-the-badge&logo=ollama&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white&style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM-Models-AI-blue?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Retrieval-Augmented-Generation-AI-green?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic-AI-brightgreen?style=for-the-badge)
-![Gen AI](https://img.shields.io/badge/Generative-AI-GenAI-purple?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-Natural-Language-Processing-lightblue?style=for-the-badge)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter)
+![Large Language Models](https://img.shields.io/badge/LLM-Large_Language_Models-FF6B6B?style=for-the-badge)
+![RAG Systems](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-4ECDC4?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-Autonomous_Systems-45B7D1?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-Creative_Models-96CEB4?style=for-the-badge)
+![Natural Language Processing](https://img.shields.io/badge/NLP-Language_AI-F7DC6F?style=for-the-badge)
 
 
 
