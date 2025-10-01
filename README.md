@@ -217,7 +217,7 @@
 
 ---
 
-### 🤖 Machine Learning & AI
+### 🤖 Artificial Intelligence and Machine Learning
 
 #### Core Frameworks
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter)
@@ -241,6 +241,14 @@
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 ![XGBoost](https://img.shields.io/badge/XGBoost-%230C55A5.svg?style=for-the-badge&logo=xgboost&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-%23137A43.svg?style=for-the-badge&logo=lightgbm&logoColor=white)
+
+#### ML Libraries & Platforms
+![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![XGBoost](https://img.shields.io/badge/XGBoost-%230C55A5.svg?style=for-the-badge&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-%23137A43.svg?style=for-the-badge&logo=lightgbm&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-%2300AEEF.svg?style=for-the-badge&logo=ollama&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
+
 
 ---
 
