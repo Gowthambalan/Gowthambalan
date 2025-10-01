@@ -97,44 +97,15 @@
 
 
 <h3 align="left">vector Database / Database:</h3>
-<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+### Vector Database:
 
-
-<h3 align="left">Vector Database / Database:</h3>
-<p align="left"> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://qdrant.tech/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/qdrant/qdrant/master/logo/qdrant_logo_light.svg" alt="qdrant" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://avatars.githubusercontent.com/u/108884711?s=200&v=4" alt="chroma" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://github.com/facebookresearch/faiss" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/docs/faiss_logo.png" alt="faiss" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://weaviate.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://weaviate.io/img/weaviate-logo.svg" alt="weaviate" width="40" height="40"/> 
-  </a> 
-</p>
-
-
+![Qdrant](https://img.shields.io/badge/Qdrant-Vector_DB-3B82F6?style=for-the-badge&logo=qdrant&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma-Vector_DB-10B981?style=for-the-badge)
+![Weaviate](https://img.shields.io/badge/Weaviate-Vector_DB-7C3AED?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-Vector_DB-FF6B6B?style=for-the-badge)
+![Milvus](https://img.shields.io/badge/Milvus-Vector_DB-00D1B2?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-667EEA?style=for-the-badge)
 
 <h2 align="left">Cloud:</h2>
 
