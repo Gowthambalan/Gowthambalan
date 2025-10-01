@@ -22,7 +22,7 @@
 ### Technologies I Work With / Am Familiar With:
 
 
-<h2 align="left">The languages I use:</h2>
+### The languages I use:
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
