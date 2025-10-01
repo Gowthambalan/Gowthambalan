@@ -8,7 +8,7 @@
 📫 **Let's collaborate!** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowtham-muruganantharaj-7532b820b) | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gowthamfutureai@gmail.com)
 
 
-## 📊 Streak stats:
+## 📊 Streak Stats:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=gowthambalan&theme=radical)
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gowthambalan&show_icons=true&hide_title=true&count_private=true&theme=radical) -->
@@ -22,7 +22,7 @@
 ### Technologies I Work With / Am Familiar With:
 
 
-### The languages I use:
+### The Languages I Use:
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -35,7 +35,7 @@
 
 
 
-<h3 align="left">Machine Learning & Artificial Intelligence:</h3>
+### Machine Learning & Artificial Intelligence:
 
 
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter)
@@ -59,7 +59,7 @@
 
 
 
-<h3 align="left">Backend Dev:</h3>
+### Backend Development:
 
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -89,7 +89,7 @@
 ![GCP Vertex AI](https://img.shields.io/badge/Vertex_AI-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
-<h3 align="left">Data Science, Analytics, and Visualization:</h3>
+### Data Science, Analytics, and Visualization:
 
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Google Analytics](https://img.shields.io/badge/google_analytics-%23FF9900.svg?style=for-the-badge&logo=googleanalytics&logoColor=white)
@@ -98,7 +98,7 @@
 
 
 
-<h3 align="left">Vector Database / Database:</h3>
+### Vector Database / Database:
 
 ### Vector Database:
 
@@ -123,7 +123,7 @@
 
 
 
-<h3 align="left">CI/CD:</h3>
+### CI/CD:
 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
