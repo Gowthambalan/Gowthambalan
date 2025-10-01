@@ -9,9 +9,9 @@
 
 
 # 📊 GitHub Status:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gowthambalan&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gowthambalan&show_icons=true&hide_title=true&count_private=true&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com/?user=gowthambalan&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=gowthambalan&theme=radical)
+
 
 
 ## 🏆 GitHub Trophies
